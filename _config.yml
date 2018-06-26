@@ -18,14 +18,14 @@ avatar: https://twoenroute.github.io/images/logo.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: twoenroute@gmail.com
   facebook: twoenroute
-  flickr:
+  flickr: twoenroute
   github: twoenroute
   instagram: twoenroute
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rssfeed
   twitter: twoenroute
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
