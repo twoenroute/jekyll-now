@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Brad and Kevin
+title: Brad and Kevin
 permalink: /about/
 ---
 
