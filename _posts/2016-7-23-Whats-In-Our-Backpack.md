@@ -9,18 +9,20 @@ First, it was important to [choose the perfect backpack]({{ site.baseurl }}{% po
 
 ![Bag Empty. Ready to be Packed. 2016]({{ site.baseurl }}/images/posts/20160723-01.jpg)
 
-HERE IS WHAT WE DECIDED WAS A MUST TO PACK
+Here is what we decided was a must pack:
 
 SHIRTS
-3 x T-Shirts
-3 x Collared Shirts
-2 x Tank Tops
-1 x Long Sleeve T-Shirt
+
+- 3 x T-Shirts
+- 3 x Collared Shirts
+- 2 x Tank Tops
+- 1 x Long Sleeve T-Shirt
 
 JACKETS
-1 x Hoodie
-1 x Synthetic Down Jacket
-1 x Rain Jacket
+
+- 1 x Hoodie
+- 1 x Synthetic Down Jacket
+- 1 x Rain Jacket
 
 PANTS/SHORTS
 1 x Jeans
