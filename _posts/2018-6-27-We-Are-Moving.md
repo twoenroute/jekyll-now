@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New home, cheaper rent.
+title: New Home, Cheaper Rent
 ---
 
 Squarespace is a great platform for sharing and updating content, but it also comes at a price. To cut costs where possible, twoenroute.com will be moving to its new home as a GitHub page. The main reason for the move is simple, cost. GitHub pages are free and it’s quick to get started, just follow the steps outlined on the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
