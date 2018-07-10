@@ -10,5 +10,6 @@ The cat is out of the bag. Brad and I have sold our home, packed our stuff into 
 There is a lot to do between now and our departure date, July 25th, 2016. For us, it will be a rollercoaster finalizing our preparations for living our nomadic lifestyle.
 
 ![Deep Ellum, Dallas, TX]({{ site.baseurl }}/images/posts/20160605-01.jpg)
+Deep Ellum, Dallas, TX
 
 We are two en route to blog our future.

@@ -10,5 +10,6 @@ We started traveling internationally for run of the mill tourist type sightseein
 Growing up we learned about the previous generation's definition of the American Dream.  Picket fences, ambrosia salad at the neighborhood potluck, and two and a half children are just a few things that come to mind. For us though, the American Dream has become one with fewer pickets in the fence and lot more wanderlust in the heart, fewer marshmallows in the ambrosia salad and a lot more culinary experiences on the street-side, and the same two and a half children in our home just a few more years down the road.
 
 ![Paris, France]({{ site.baseurl }}/images/posts/20160629-01.jpg)
+Paris, France
 
 We are two en route to achieve our American Dream.

@@ -10,6 +10,7 @@ One of the questions we get from people is, "how can you fit everything you need
 First, it was important to [choose the perfect backpack]({{ site.baseurl }}{% post_url 2016-07-15-Choosing-The-Backpack %}) and once we had done that it was time to start making a list of everything we thought we needed. Next, we took that list, asked ourselves if we really needed everything on it and started cutting items off the list. This was much easier to do since we had already [packed our lives into a box]({{ site.baseurl }}{% post_url 2016-07-15-Choosing-The-Backpack %}). Finally, we researched what someone would need on a backpacking trip and started to buy things to fill our backpacks.
 
 ![Bag Empty. Ready to be Packed. 2016]({{ site.baseurl }}/images/posts/20160723-01.jpg)
+Bag Empty. Ready to be Packed. 2016
 
 Here is what we decided was a must pack:
 
@@ -93,5 +94,6 @@ ELECTRONICS / GADGETS
 - 1 x USB Car Charger & USB Battery Pack
 
 ![Bag Packed. 2016]({{ site.baseurl }}/images/posts/20160723-02.jpg)
+Bag Packed. 2016
 
 We are two en route to pack up and head out.
