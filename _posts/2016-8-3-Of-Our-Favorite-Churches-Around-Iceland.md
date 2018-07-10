@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 7 Of Our Favorite Churches Around Iceland
+date: 2016-8-3
+tags: [ travel, story, scandinavia]
 ---
 
 As we spent the last week driving around the entire country of Iceland, which is about as big as the state of Ohio, we noticed that everywhere we looked we saw a church. It kind of felt like we were back home in Texas. No matter how big or small the town we were in, there a church stood. Here are 7 of our favorite churches around Iceland.  
@@ -22,7 +24,6 @@ SIGLUFJARÐARKIRKJA
 ![Siglufjörður]({{ site.baseurl }}/images/posts/20160803-03.jpg)
 
 Not only is this a spectacular church with parts of it's history dating back to the 16th century, it also doubles as the towns high school. The church is in the town of Siglufjörður which sits in a beautiful Fjörd. 
-![REI]({{ site.baseurl }}/images/posts/20160715-04.jpg)
 
 AKUREYRARKIRKJ
 
