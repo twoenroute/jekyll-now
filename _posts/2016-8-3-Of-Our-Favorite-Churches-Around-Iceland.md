@@ -5,38 +5,38 @@ title: 7 Of Our Favorite Churches Around Iceland
 
 As we spent the last week driving around the entire country of Iceland, which is about as big as the state of Ohio, we noticed that everywhere we looked we saw a church. It kind of felt like we were back home in Texas. No matter how big or small the town we were in, there a church stood. Here are 7 of our favorite churches around Iceland.  
 
-1. BÚÐIR 
+BÚÐIR 
 ![Búðir]({{ site.baseurl }}/images/posts/20160803-01.jpg)
 
 Búðir is a small church located in the west of Iceland. It was completed in 1847 and stands at the end of a peninsula with the ocean to one side and mountains to the other. We love how it is painted black which sets it off from the colorful background of nature. 
 
-2. STYKKISHÓLMSKIRKJA
+STYKKISHÓLMSKIRKJA
 ![Stykkishólmur]({{ site.baseurl }}/images/posts/20160803-02.jpg)
 
 This church is very modern in the rustic port town of Stykkishólmur. The swooping bell tower is representative of a whale's vertebra. Inside is a fantastic painting of Madonna. The ceiling sparkles with hundreds of exposed hanging Edison style light bulbs. 
 
-3. SIGLUFJARÐARKIRKJA
+SIGLUFJARÐARKIRKJA
 ![Siglufjörður]({{ site.baseurl }}/images/posts/20160803-03.jpg)
 
 Not only is this a spectacular church with parts of it's history dating back to the 16th century, it also doubles as the towns high school. The church is in the town of Siglufjörður which sits in a beautiful Fjörd. 
 ![REI]({{ site.baseurl }}/images/posts/20160715-04.jpg)
 
-4. AKUREYRARKIRKJ
+AKUREYRARKIRKJ
 ![Church of Akureyri]({{ site.baseurl }}/images/posts/20160803-04.jpg)
 
 The Church of Akureyri is in the center of town on top of a hill. When we ascended the steps the church began to become even grander. As we walked through the door we noticed refreshing modern stain glass windows and nods to Iceland's Nordic history all around. 
 
-5. SEYÐISFJÖRÐUR KIRKJAN
+SEYÐISFJÖRÐUR KIRKJAN
 ![Seyðisfjörður]({{ site.baseurl }}/images/posts/20160803-05.jpg)
 
 What makes this church one of our favorites was the unique powder blue color. Seyðisfjörður is located in the north east of Iceland nestled in a fjörd. This vibrant city and unique church is a must see.
 
-6. HELLNAR CHURCH
+HELLNAR CHURCH
 ![Seyðisfjörður]({{ site.baseurl }}/images/posts/20160803-06.jpg)
 
 Not at all a famous church or even a church that is the center of attention. What caught our eye is how this church shows the wear time has on a building. Located in Hellnar, an other fishing town in the west of Iceland, this church sits off by itself serving as a constant reminder of time. 
 
-7. HALLGRIMSKIRKJA
+HALLGRIMSKIRKJA
 ![Seyðisfjörður]({{ site.baseurl }}/images/posts/20160803-07.jpg)
 
 Probably Iceland's most iconic church, Hallgrimskirkja is at the center of Reykjavik. The design of this church is supposed to be symbolic of the basalts you see coming out of the ocean onto the coast from around the country. It connects with the heart of Iceland's volcanic history.
