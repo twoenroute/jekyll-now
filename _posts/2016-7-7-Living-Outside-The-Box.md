@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Living Outside The Box
+date: 2016-7-7
+tag: [ inspiration, packing ]
 ---
 
 We have been asked by multiple friends, family, and coworkers what we did with all of our stuff. Well...

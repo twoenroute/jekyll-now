@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Choosing The Backpack
+date: 2016-7-15
+tag: [ packing, advice ]
 ---
 
 When we chose to live on the road for more than a year we realized one of the most important items we would have was the pack on our back. After some initial online research we knew this was something we would need to purchase in person.  We would need to try it on, feel the quality of the interconnections in the zipper, how the materials felt between our fingers and all the other feel goods the internet can't offer.  For us that meant a trip to [REI](https://www.rei.com/).

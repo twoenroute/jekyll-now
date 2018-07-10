@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Sleeping in Airports
+date: 2016-7-26
+tag: story
 ---
 
 One goal we set for our RTW trip is to make our money go as far as possible and to live within a new means. This meant making compromises along the way and even being uncomfortable at times. We started our trip by testing how far we could test our limits, asked ourselves if these limits were unrealistic, and even hoped that the edge we would walk up to might somehow continue to be pushed further and further out making what would have seemed uncomfortable not so bad. Our journey to the starting point did just that.
