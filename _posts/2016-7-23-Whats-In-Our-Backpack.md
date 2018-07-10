@@ -1,6 +1,8 @@
 ---
 layout: post
 title: What's In Our Backpack
+date: 2016-7-23
+tag: [ packing, advice ]
 ---
 
 One of the questions we get from people is, "how can you fit everything you need in just one backpack?" The key is really a combination of careful packing, only taking what is really needed, and picking the right items.
