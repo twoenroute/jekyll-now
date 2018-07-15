@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biking Berlin: How to See Berlin in 6 hours!
+title: Biking Berlin How To See Berlin In 6 Hours
 date: 2016-10-5
 tag: [ story, travel, advice, europe ]
 ---
