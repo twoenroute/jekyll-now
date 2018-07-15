@@ -10,21 +10,13 @@ We have been so excited to see how our family has become inspired to come up wit
 Our niece and nephew wanted to get a globe and map our journey. They are learning about the world one stop at a time with us. A globe or map is a great way to see how big and beautiful the world is. Their globe even lights up!
 
 ![Mapping Globe]({{ site.baseurl }}/images/posts/20160930-01.jpg)
-Mapping our Journey on their globe
-
 ![Mapping Globe]({{ site.baseurl }}/images/posts/20160930-02.jpg)
-They love learning with their globe
 
 Kevin’s Dad, Mom, and two younger siblings decided to follow our journey to places through food. Some places we travel to, they find things from that country and try them. Such a fun way to experience the world with us. Sometimes they are eating better then us!
 
 ![Plum Bread]({{ site.baseurl }}/images/posts/20160930-03.jpg)
-Eastern European style plum bread
-
 ![Bavarian Meal]({{ site.baseurl }}/images/posts/20160930-04.jpg)
-Traditional Bavarian meal
-
 ![Iceland Stuffs]({{ site.baseurl }}/images/posts/20160930-05.jpg)
-Being goofballs with Iceland items
 
 Brad’s parents follow our journey on our facebook, twitter, and this blog. It is always so great to get a message from them about the places we are. They have wanderlust in the soul.
 
