@@ -27,3 +27,5 @@ After seeing the copy at The Louvre and the plaster cast in Berlin there was onl
 ![Barberini Faun]({{ site.baseurl }}/images/posts/20160921-01.jpg)
 Barberini Faun, c. 220 BC
 Photo taken on our 2016 trip to Munich, Germany.
+
+We are two en route to appreciate the arts.
