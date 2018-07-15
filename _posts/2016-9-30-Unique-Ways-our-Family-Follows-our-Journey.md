@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unique Ways our Family Follows our Journey
+title: Unique Ways Our Family Follows Our Journey
 date: 2016-9-30
 tag: [ inspiration, travel, food ]
 ---
